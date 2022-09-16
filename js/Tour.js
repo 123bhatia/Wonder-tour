@@ -39,7 +39,7 @@ AFRAME.registerComponent("tour", {
       {
         id: "taj-mahal",
         title: "Taj Mahal",
-        url: "./assets/thumbnails/taj_mahal.png",
+        url: "./assets/thumbnails/taj_mahal.jpeg",
       },
       {
         id: "christ-the-redemer",
